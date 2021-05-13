@@ -1,6 +1,7 @@
 
 #!/usr/bin/python3 
 #coding: utf-8
+#By S4vitar
 
 import re, sys, subprocess
 
